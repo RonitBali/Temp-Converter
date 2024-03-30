@@ -11,7 +11,7 @@ body {
   
   
   .converter {
-    background-color:antiquewhite;
+    background-color:aquawhite;
     border-image-width: auto;
     
     border-radius: 10px;
@@ -44,7 +44,7 @@ body {
     display: block;
     margin: 10px auto;
     padding: 8px 16px;
-    background-color:#0056b3;
+    background-color:##e28743;
     color: white;
     border: none;
     border-radius: 5px;
